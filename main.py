@@ -9,7 +9,7 @@ import datetime
 bot_token = '6542193363:AAGhRQ5K_egCR6kJ8oF5-q_Msve-CJLoKKk' 
 bot = telebot.TeleBot(bot_token)
 processes = []
-ADMIN_ID = '6563859645'
+ADMIN_ID = '6347230217'
 
 def TimeStamp():
     now = str(datetime.date.today())
